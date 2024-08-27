@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\twitt\\adventure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD885DE-E3DB-5918-3837-4F0F454458A7}|Assembly-CSharp.csproj|c:\\users\\twitt\\adventure\\assets\\doofusmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD885DE-E3DB-5918-3837-4F0F454458A7}|Assembly-CSharp.csproj|solutionrelative:assets\\doofusmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD885DE-E3DB-5918-3837-4F0F454458A7}|Assembly-CSharp.csproj|C:\\Users\\twitt\\adventure\\assets\\pulpitmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD885DE-E3DB-5918-3837-4F0F454458A7}|Assembly-CSharp.csproj|solutionrelative:assets\\pulpitmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD885DE-E3DB-5918-3837-4F0F454458A7}|Assembly-CSharp.csproj|C:\\Users\\twitt\\adventure\\assets\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD885DE-E3DB-5918-3837-4F0F454458A7}|Assembly-CSharp.csproj|solutionrelative:assets\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD885DE-E3DB-5918-3837-4F0F454458A7}|Assembly-CSharp.csproj|C:\\Users\\twitt\\adventure\\assets\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD885DE-E3DB-5918-3837-4F0F454458A7}|Assembly-CSharp.csproj|solutionrelative:assets\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD885DE-E3DB-5918-3837-4F0F454458A7}|Assembly-CSharp.csproj|C:\\Users\\twitt\\adventure\\assets\\startmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD885DE-E3DB-5918-3837-4F0F454458A7}|Assembly-CSharp.csproj|solutionrelative:assets\\startmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD885DE-E3DB-5918-3837-4F0F454458A7}|Assembly-CSharp.csproj|c:\\users\\twitt\\adventure\\assets\\endscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD885DE-E3DB-5918-3837-4F0F454458A7}|Assembly-CSharp.csproj|solutionrelative:assets\\endscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD885DE-E3DB-5918-3837-4F0F454458A7}|Assembly-CSharp.csproj|C:\\Users\\twitt\\adventure\\assets\\pulpittimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD885DE-E3DB-5918-3837-4F0F454458A7}|Assembly-CSharp.csproj|solutionrelative:assets\\pulpittimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD885DE-E3DB-5918-3837-4F0F454458A7}|Assembly-CSharp.csproj|C:\\Users\\twitt\\adventure\\assets\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD885DE-E3DB-5918-3837-4F0F454458A7}|Assembly-CSharp.csproj|solutionrelative:assets\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD885DE-E3DB-5918-3837-4F0F454458A7}|Assembly-CSharp.csproj|C:\\Users\\twitt\\adventure\\assets\\gameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD885DE-E3DB-5918-3837-4F0F454458A7}|Assembly-CSharp.csproj|solutionrelative:assets\\gameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EndScreen.cs",
+              "DocumentMoniker": "C:\\Users\\twitt\\adventure\\Assets\\EndScreen.cs",
+              "RelativeDocumentMoniker": "Assets\\EndScreen.cs",
+              "ToolTip": "C:\\Users\\twitt\\adventure\\Assets\\EndScreen.cs",
+              "RelativeToolTip": "Assets\\EndScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:27:51.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartMenuController.cs",
+              "DocumentMoniker": "C:\\Users\\twitt\\adventure\\Assets\\StartMenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\StartMenuController.cs",
+              "ToolTip": "C:\\Users\\twitt\\adventure\\Assets\\StartMenuController.cs",
+              "RelativeToolTip": "Assets\\StartMenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:17:31.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UiManager.cs",
+              "DocumentMoniker": "C:\\Users\\twitt\\adventure\\Assets\\UiManager.cs",
+              "RelativeDocumentMoniker": "Assets\\UiManager.cs",
+              "ToolTip": "C:\\Users\\twitt\\adventure\\Assets\\UiManager.cs",
+              "RelativeToolTip": "Assets\\UiManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:39:33.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\twitt\\adventure\\Assets\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\GameController.cs",
+              "ToolTip": "C:\\Users\\twitt\\adventure\\Assets\\GameController.cs",
+              "RelativeToolTip": "Assets\\GameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:32:50.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\twitt\\adventure\\Assets\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\twitt\\adventure\\Assets\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T15:56:00.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PulpitManager.cs",
+              "DocumentMoniker": "C:\\Users\\twitt\\adventure\\Assets\\PulpitManager.cs",
+              "RelativeDocumentMoniker": "Assets\\PulpitManager.cs",
+              "ToolTip": "C:\\Users\\twitt\\adventure\\Assets\\PulpitManager.cs",
+              "RelativeToolTip": "Assets\\PulpitManager.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T15:40:14.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoofusMovement.cs",
+              "DocumentMoniker": "C:\\Users\\twitt\\adventure\\Assets\\DoofusMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\DoofusMovement.cs",
+              "ToolTip": "C:\\Users\\twitt\\adventure\\Assets\\DoofusMovement.cs",
+              "RelativeToolTip": "Assets\\DoofusMovement.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwC8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T15:38:40.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PulpitTimer.cs",
+              "DocumentMoniker": "C:\\Users\\twitt\\adventure\\Assets\\PulpitTimer.cs",
+              "RelativeDocumentMoniker": "Assets\\PulpitTimer.cs",
+              "ToolTip": "C:\\Users\\twitt\\adventure\\Assets\\PulpitTimer.cs",
+              "RelativeToolTip": "Assets\\PulpitTimer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:44:14.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameConfig.cs",
+              "DocumentMoniker": "C:\\Users\\twitt\\adventure\\Assets\\GameConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\GameConfig.cs",
+              "ToolTip": "C:\\Users\\twitt\\adventure\\Assets\\GameConfig.cs",
+              "RelativeToolTip": "Assets\\GameConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T15:37:03.183Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
